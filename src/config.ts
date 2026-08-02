@@ -38,7 +38,7 @@ export const CONFIG = {
 
   // The movie/game/show/anime shown in the poster frame on the badge.
 favorite: {
-  category: "Moviee",
+  category: "Moviie",
   title: "The Odyssey ",
   posterUrl: "https://upload.wikimedia.org/wikipedia/en/9/90/The_Odyssey_%282026_film%29_poster.jpg",
 },
