@@ -17,7 +17,7 @@ export const CONFIG = {
 
   // One short sentence, shown under "Fun fact" on the badge. Keep it to
   // a single line - long text will wrap and may get cramped.
-  funFact: "I enjoy learning  cloud",
+  funFact: "I enjoy learning  cloud computing",
 
   // true if you're running/deploying this from a cloud VM, false if it's
   // just running on your own laptop. Only changes the "My Laptop 💻" vs
@@ -38,7 +38,7 @@ export const CONFIG = {
 
   // The movie/game/show/anime shown in the poster frame on the badge.
 favorite: {
-  category: "Moviie",
+  category: "Movie",
   title: "The Odysseey",
   posterUrl: "https://upload.wikimedia.org/wikipedia/en/9/90/The_Odyssey_%282026_film%29_poster.jpg",
 },
