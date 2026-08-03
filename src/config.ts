@@ -8,7 +8,7 @@ export const CONFIG = {
   // 2–4 hex colors. The background will drift smoothly between them.
   // Visit https://coolors.co/palettes/trending for colors!
   // Colors must start with #
-  gradientColors: ["#abafb7", "#6f358c", "#b6aa2a"],
+  gradientColors: ["#11c663", "#2ab363", "#b6aa2a"],
 
 
   // Your name (or nickname) as a plain string. Shows on the badge and sets
@@ -17,12 +17,12 @@ export const CONFIG = {
 
   // One short sentence, shown under "Fun fact" on the badge. Keep it to
   // a single line - long text will wrap and may get cramped.
-  funFact: "I enjoy learning cloud",
+  funFact: "I enjoy learning  cloud",
 
   // true if you're running/deploying this from a cloud VM, false if it's
   // just running on your own laptop. Only changes the "My Laptop 💻" vs
   // "Alibaba Cloud ☁️" text on the badge - purely cosmetic.
-  isOnCloud: false,
+  isOnCloud: true,
   
   // true/false. Lets students flip the card and take a photo with their
   // front camera. Turn off if the device/browser running this has no
@@ -39,7 +39,7 @@ export const CONFIG = {
   // The movie/game/show/anime shown in the poster frame on the badge.
 favorite: {
   category: "Moviie",
-  title: "The Odyssey ",
+  title: "The Odysseey",
   posterUrl: "https://upload.wikimedia.org/wikipedia/en/9/90/The_Odyssey_%282026_film%29_poster.jpg",
 },
 
